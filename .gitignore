@@ -1,0 +1,14 @@
+# Secrets - never commit your database password
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor folders
+.idea/
+.vscode/
